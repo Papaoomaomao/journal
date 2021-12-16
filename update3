@@ -1,0 +1,63 @@
+2 Updates in one day? Wow you guys sure are lucky.
+
+Anyway, I've been refining my penetration testing toolbox, and I have it all layed out at this point
+Heres the stuff:
+Backpack:
+  I haven't decided on the backpack exactly, It doesnt really matter. Just anything that's laptop friendly, and can fit what else is on the list. I'll keep everything in here
+  Laptop: 
+    Apparently the industry standard is Macbook. Im slowly becoming more and more biased towards them, but any laptop will do. Preferrably 8g ram or over with Kali Linux.
+    It's main job will probably be for password cracking, since my Raspberry Pi won't have enough juice for that. Also for things like OSINT, and webhacking.
+  Notebook and Pencil:
+    This is underrated. Writing things down is very important. I am very scatterbrained because I have the mind of a tinkerer. Writing down notes and/or memos will increase your
+    productivity and organization tenfold
+  Jail-Broken Phone:
+    This phone won't be my main one obviously. I'll have it for convenience and other misc. things. I haven't really explored the use of a phone during red-teaming, but I guess 
+    it could be a very powerfull OSINT tool. I could probably use it for things related to social media, phone numbers etc. 
+  Multi-Tool:
+    Exactly what it sounds like. I'm definetly getting a leatherman. Just for general purpose use, I'll definetly need it more than I think I would.
+  Power Bank:
+    This will charge/power most things on my list. Self explanitory 
+  Lock Picking Tools:
+    Physical pentesting stuff. Might be usefull for opening drawers to get to sensitive info.
+  Adapters:
+    Saves space, very convenient.
+  Flashlight:
+    If I need light I'll have this. Better safe then sorry, because if I dont have one and I need it I'll be screwed
+  Snacks:
+    I'm a human being so I need to eat. This includes drinks too. Liquids will be put into a Hydroflask
+  Assorted Cables:
+    Cables that I made need like HDMIs, chargers, VGA, ethernet cables, etc. Kinda fits in with adapters as well.
+Toolbox
+  This is the fun part, all of my gadgets and gizmos. All of it will be stored in a Pelican 1200 to look badass and for safety.
+    Raspberry Pi:
+      This is the star of the show. It won't be any normal Pi, this Pi will be custom made by Zyvhur. Its main purpose will be for wifi hacking and maybe some stuff with radio,
+      It will be my main tool for pentesting, a jack of all trades
+    Bash Bunny:
+      I might not buy one straight from Hak5, I'll probably make my own.
+    Crazy Radio:
+      This device seems pretty cool to me. As I understand it, the device can interfere with bluetooth, and you can control mouse and keyboard strokes.
+    Ubertooth One:
+      Bluetooth pentesting tool. When paired with bluetooth monitoring tools. Its pretty nice
+    SDR:
+      These are really cool. Transmits and receives radio signals
+    USB:
+      I will have multiple USBs. A couple will be for live booting, ill probably have like two for external storage, and one will be a general purpose USB.
+      
+So this is all I can think of right now. Along the way I'll make updates on getting and learning how to use these tools.
+
+
+      
+        
+        
+        
+    
+  
+
+  
+  
+  
+    
+ 
+  
+ 
+  
